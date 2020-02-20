@@ -22,12 +22,13 @@
     "supertest": "^4.0.2"
   },
   "dependencies": {
+    "bcrypt": "^3.0.8",
     "dotenv": "^8.0.0",
     "ejs": "^2.6.2",
     "express": "^4.17.1",
     "express-ejs-layouts": "^2.5.0",
     "morgan": "^1.9.1",
     "pg": "^7.11.0",
-    "sequelize": "^5.8.12"
+    "sequelize": "^5.21.5"
   }
 }
